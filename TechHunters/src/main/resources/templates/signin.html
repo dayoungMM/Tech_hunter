@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head th:replace="common/head">
+</head>
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+	<div class="container">
+		<a class="navbar-brand js-scroll-trigger" href="/home">Tech
+			Hunters</a>
+		<button class="navbar-toggler navbar-toggler-right" type="button"
+			data-toggle="collapse" data-target="#navbarResponsive"
+			aria-controls="navbarResponsive" aria-expanded="false"
+			aria-label="Toggle navigation">
+			Menu <i class="fas fa-bars"></i>
+		</button></nav>
+
+	<div class="jumbotron">
+		<div class="container text-center">
+			<form method="post" action="/signin">
+				<div class="form-group">
+					<label for="email">Email:</label> <input type="text"
+						class="form-control" id="email" name="email">
+				</div>
+				<div class="form-group">
+					<label for="pwd">Password:</label> <input type="password"
+						class="form-control" id="pwd" name="pwd">
+				</div>
+				<button class="btn btn-primary btn-left" id="signin" >Sign
+					in</button>
+				<button class="btn btn-danger btn-right" id="signup">Not a Member? Sign
+					up</button>
+			</form>
+		</div>
+	</div>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Contact form JavaScript -->
+  <script src="js/jqBootstrapValidation.js"></script>
+  <script src="js/contact_me.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/agency.min.js"></script>
+	<script>
+		$("#signin").click(function() {
+			$("form").submit();
+			return false;
+		});
+	
+		$("#signup").click(function() {
+			location = "/signup";
+			return false;
+		});
+	</script>
+
+</body>
+</html>

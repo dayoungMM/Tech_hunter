@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="utf-8">
+<head th:replace="common/head">
+</head>
+
+<body id="page-top">
+
+ 	<nav th:replace="common/nav"></nav>
+
+  <!-- Header -->
+  <header class="masthead">
+    <div class="container">
+      <div class="intro-text">
+        <div class="intro-lead-in">Let's hunt!</div>
+        <div class="intro-heading text-uppercase">TECH HUNTERS</div>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#portfolio">Hunting Start!</a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Services -->
+  <section class="page-section" id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Services</h2>
+          <h3 class="section-subheading text-muted">what we offer in TECH HUNTERS</h3>
+        </div>
+      </div>
+      <div class="row text-center">
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-eye fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading">Trends</h4>
+          <p class="text-muted">AI, 빅데이터 등 다양한 IT업계의 트렌드를 한 눈에!</p>       </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-newspaper fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading">Scrapping</h4>
+          <p class="text-muted">원하는 뉴스 기사를 한 곳에 쏙쏙!</p>
+        </div>
+        <div class="col-md-4">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-robot fa-stack-1x fa-inverse"></i>
+          </span>
+          <h4 class="service-heading">Chat-bot</h4>
+          <p class="text-muted">언제 어디서나 보기 쉽게!</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Categories Grid -->
+  <section class="bg-light page-section" id="portfolio">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">Categories</h2>
+          <h3 class="section-subheading text-muted">보기쉽지?</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <a class="portfolio-link" data-toggle="modal" href="/ainews" id="ainews">
+            <div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                <i class="fas fa-plus fa-3x"></i>
+              </div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="">
+          </a>
+          <div class="portfolio-caption">
+            <h4>AI</h4>
+            <p class="text-muted">What's new in AI</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <a class="portfolio-link" data-toggle="modal" href="/bigdatanews" id="bigdatanews">
+            <div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                <i class="fas fa-plus fa-3x"></i>
+              </div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/02-thumbnail.jpg" alt="">
+          </a>
+          <div class="portfolio-caption">
+            <h4>BigData</h4>
+            <p class="text-muted">What's new in BigData</p>
+          </div>
+        </div>
+        <div class="col-md-4 col-sm-6 portfolio-item">
+          <a class="portfolio-link" data-toggle="modal" href="/etcnews" id="etcnews">
+            <div class="portfolio-hover">
+              <div class="portfolio-hover-content">
+                <i class="fas fa-plus fa-3x"></i>
+              </div>
+            </div>
+            <img class="img-fluid" src="img/portfolio/03-thumbnail.jpg" alt="">
+          </a>
+          <div class="portfolio-caption">
+            <h4>Other Tech</h4>
+            <p class="text-muted">What's new in Technology Field</p>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </section>
+
+
+  <footer th:replace="common/footer"></footer>
+<script>
+$('#ainews').click(function() {
+	location = "/ainews";
+	return false;
+})
+$('#bigdatanews').click(function() {
+	location = "/bigdatanews";
+	return false;
+})
+$('#etcnews').click(function() {
+	location = "/etcnews";
+	return false;
+})
+</script>
+  
+</body>
+
+
+</html>
