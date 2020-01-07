@@ -1,101 +1,21 @@
-img,title,link
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVFUPv1dmIpmoFh_0dijPes4oQIDj35p9U4X1iT7M4-lasJa6ivQaRxgBi,AI 기반의 위협 탐지가 아직 시장을 장악하지 못한 이유 - ITWorld Korea,www.itworld.co.kr/news/115320
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHrQLUkcph-6CzprQMnIQAVpjQKk89uScfPjiJ7MW-Z_rvDjHphpx_nXYb,네트워크 운영 : AI와 ML의 새로운 역할 - ITWorld Korea,www.itworld.co.kr/news/111554
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeUS-DCQhBkXVzb_EDEqyhVpcwi_POkx5k5lDHOrFBcZTFD1uHEFefiZpa,"IT 미래를 이끄는 삼두마차, ""AI, IoT, 하이브리드 클라우드"" - ITWorld ...",www.itworld.co.kr/news/106773
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSHIslVCQj2xK_gzorHN6xccyHHhN-tCtYgbnoFy_ogRtjwsLse1thY_og,AI 여정을 가속화하는 핵심 로드맵 - IDG Summary - ITWorld Korea,www.itworld.co.kr/techlibrary/118550
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNemvjpN6uRcgdZPepOLL0nJL8wBcFiB1PRoQJFuSNt0N99bqgnmRKpb4,기업이 반드시 도입해야 하는 AI 활용법 5가지 - ITWorld Korea,www.itworld.co.kr/news/105057
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz1zJ08PYDPAoI92cSF-PgoWf-x-g4f0vACURSwcLWkMkA_Mm9GkWymZc,"""사이버보안의 가장 큰 위협이 될 수 있는"" AI 퍼징이란 무엇인가 ...",www.itworld.co.kr/howto/119834
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGoRmoG21lQiBOeSB0RWN-PY78PoUqY3yelwTTm-iEnmhZxkjZkW4eC9E,"AI를 활용한 사이버 위협, 보안의 다음 과제 - ITWorld Korea",www.itworld.co.kr/news/111362
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRFpjB-5rJ1nlo9kQc8qctzX0wb_odHaiymbQNTZMfhlsNwGWycoVPgkfM,성공적인 AI 프로젝트를 위한 8가지 핵심 직무 - ITWorld Korea,www.itworld.co.kr/news/118955
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUHg4IGJiPHWbssTMoLWJIvDJ9OjXmr_uC55HGKB-JYyQfr_pT6P3uIM,'구글의 진짜 혁신' AI 카메라 클립스에서 보인다 - ITWorld Korea,www.itworld.co.kr/news/106680
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSFtsoEt-BsBvPEgkoJe-jMye6GPHrrLcaAmBRcF8uj1QqBLdVK1q_mB_k,글로벌 칼럼 | AI 전쟁이라고 세상이 끝난 것은 아니다 - ITWorld Korea,www.itworld.co.kr/news/110551
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UUMkdc61LNV73uKScqAvZW9xFfU9j4tOGUtMmDNByIdKc1blD9_BEXFy,2020년대 인공지능 기술 동향 예측 - ITWorld Korea,www.itworld.co.kr/news/140214
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdk0tKdWGyo73e1hd4EmuUGtUEJ4Tgtzb96SdyHBwMO11NpVDgEI2UHKU,"AI로 안전 강조한 웨이모 “자율주행 자동차, 두려움 해결이 과제 ...",www.itworld.co.kr/news/109276
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"“AI 영향, 3년 후 230만 일자리 창출과 180만 일자리 소멸”…가트너 ...",www.itworld.co.kr/news/106708
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXzPYd8eAYqBOQ-pdsfaQloqaEODE1Dl54At1Bkz3VVeOR0PruQ23cBlv6,IDG 블로그 | “AR과 AI가 만나면…” MS가 홀로렌즈 2에 AI 코프로세서 ...,www.itworld.co.kr/news/105759
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLDKoS_nwgT0UGE8QCr5sSk4Jy0OAwT1HdwJjkk3-WbM2HcDb2Zys6DUvn,AI 지원 보안 솔루션을 구매하기 전 물어야 할 11가지 질문 - ITWorld ...,www.itworld.co.kr/news/120329
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjAp_8qQR1_POOzH0qFzNMkoHoxHElWqGkyNnD4tbdsRUXJ4u9f44acDJ,“AI를 알고 싶다면” 반드시 이해해야 하는 4가지 핵심 개념 - ITWorld ...,www.itworld.co.kr/news/105221
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSq25sCjV2yQJs83c_EToYGEItwW1w-HfXO5s0Wb8pLUGMK51Jm_MgztGU,"RPA, AI, 데이터옵스 등 2020년 주시해야 할 기술 8가지 - ITWorld Korea",www.itworld.co.kr/news/129735
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtOebSWexS4ZiMxfYeFTA9zeeWc5qBsALnBVGMAOGiQ18WiX1IfkFAito,AI의 진화는 어디까지...장편 영화 대본도 썼다 - ITWorld Korea,www.itworld.co.kr/news/100527
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEmIsVAv5QqGrgrgev6dcpFEy7yo7Aj1DsLJ33-MDojXXuSCR7AaPmH3I,“아직 늦지 않았다” 성공적인 AI 도입의 전제 조건 5가지 - ITWorld Korea,www.itworld.co.kr/news/108855
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRo97Iw41WMiArA8C2xpwwSVU8_WpPR7LK0tCi7egXfrws9Jm33z_iz0CU,"화웨이, 신형 AI 칩으로 엔비디아와 인텔 노린다 - ITWorld Korea",www.itworld.co.kr/news/111099화웨이의
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr0aIoy-9P4v64wMPtM22h2XUhqtrW4O-PySylA1f2VuxJJ3OHC8bewkc,"AMD, 머신러닝용 라데온 인스팅트 GPU 발표…AI 시장 추격 나선다 ...",www.itworld.co.kr/news/102559
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"“2022년까지 AI 프로젝트 85%가 잘못된 결과 도출""…가트너 - ITWorld ...",www.itworld.co.kr/news/108256
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWxw5JnDBM3mPi539ZHCRDLzQay5k6igvT7os6RAz8XyfSWzhSdDJ8yhr,IDG 블로그 | SaaS 기반 AI 학습 서비스의 엄청난 가능성 - ITWorld ...,www.itworld.co.kr/news/137410
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQq23_7ngoeXigXE5TQtd8h4Q9Skw5sJ32JcPOD1NvaE02VW2mkyGYgVHc,“CPU도 AI 시대” 인텔 10세대 아이스레이크 코어 프로세서 성능 해부 ...,www.itworld.co.kr/news/123449
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"마그넷 포렌식, AI 기능 더한 디지털 포렌식 솔루션 '마그넷 엑시엄 1.1 ...",www.itworld.co.kr/news/105638
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQMr2mVqm2fFJEYrOfqC3qaCaj-iMPnAHogvF5h3f1IUxZbFxcd7PQ364,향후 10년 AI 투명성의 위험을 완화하는 방법 - ITWorld Korea,www.itworld.co.kr/news/140656
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjUzEJoqaisBh6yAp_-usHCX8VZz1WDuFNo-VwUi7UaIP1umCoyUlGiI,“데이터와 AI를 이용한 궁극의 개인화” 고객 생애 가치 향상을 위한 ...,www.itworld.co.kr/techlibrary/125010
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRbw366Lj_yu0Fkb5T8iLnfJDEHnOzc73OvZB35Jy_9SuMxVDa4gPqDKfE,자율 주행에서 머신 비전까지··· 'HPC+AI' HPE 글로벌 사례 집중 분석 ...,www.itworld.co.kr/techlibrary/122105
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"미스트 시스템즈, 'AI 기반 셀프 드라이빙 네트워크' 발표 - ITWorld Korea",www.itworld.co.kr/news/136382
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeUS-DCQhBkXVzb_EDEqyhVpcwi_POkx5k5lDHOrFBcZTFD1uHEFefiZpa,글로벌 칼럼 | AI의 밝은 면에 기업이 집중해야 할 이유 - ITWorld Korea,www.itworld.co.kr/news/140144
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRL5VvBpEejNlGmJExqK038Ck_yf8PxjF_Q8D-lCimZt5s4tofxVfF6Nk,"성공을 위한 AI 모멘텀, 성숙도, 그리고 모델 : 글로벌 경영진 설문 조사 ...",www.itworld.co.kr/techlibrary/113328
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"IBM, AI 혁신 기능 추가 '왓슨 애니웨어' 공개 - ITWorld Korea",www.itworld.co.kr/news/134755
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuN5GpyJwmMA0ZhLdgqeHmCLO62vNO5ih6crPjmxUFWBTYlKieMsTPz8U,운영도구의 미래도 AI에 클라우드를 더한 '클라우드옵스'가 해답 ...,www.itworld.co.kr/news/119435
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdgGXV5Zj29HjC-5-9dMr8IRdglLdwItTVboh90ko9w5acnS0KlyQZ-Q,“차세대 IT 인프라 운영 관리는 AI가 맡는다” HPE InfoSight가 제시하는 ...,www.itworld.co.kr/techlibrary/122990
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQHkP3_PtkMUTMI6vQIT2m_gHhJEaZthRhuu6900MmEqfcBpN4Y7X138CY,부산은행 '리디자인 뱅킹' 사례로 본 혁신을 위한 AI와 데이터 활용 전략 ...,www.itworld.co.kr/techlibrary/136998
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeUS-DCQhBkXVzb_EDEqyhVpcwi_POkx5k5lDHOrFBcZTFD1uHEFefiZpa,글로벌 칼럼 | 보안 업체들이 말하는 AI가 정말 AI인가 - ITWorld Korea,www.itworld.co.kr/news/108702
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGTGk6m-FI0xtkG8Q2_2qfC2VL_k-CI-TT3WZoRhqcmpwnvH5rJ0UcJPbm,엔터프라이즈 AI 환경을 위한 최상의 서버 - ITWorld Korea,www.itworld.co.kr/techlibrary/115617
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFZEHPrd_5YiBLpamU02kxv9FW-u7s2-5OM2F2zK2JpDnMyk7kg4i2EmE,"추진력 얻은 데이터센터 수랭 시스템…AI, IoT 등 첨단 워크로드가 ...",www.itworld.co.kr/news/134019
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRizBqyoqHBaIECFWpnlMEtE6jiKuvZT-lhsXhBdfPcdyriNREFUfF-X56G,구글 AI 칩 성능 보고서 발표…소비전력당 성능 최대 80배 - ITWorld ...,www.itworld.co.kr/news/104247
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"""AI 사용 목적, 시간과 돈 절약""…가트너 AI 설문 결과 발표 - ITWorld ...",www.itworld.co.kr/news/110790
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnd8lRuMWxI9h18Gy5e3ulcDIRSUKdOrAASowb5HbO20w97n7MkBmWIP28,'AI와 헬프데스크'··· 전문가들이 진단한 오늘과 내일 - ITWorld Korea,www.itworld.co.kr/insight/121122
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfV-eP0xQXbebrdi7B7bBHUwL98JNrAT1WIRFB5zgP_ELLvGRMg_bM26U,'차별화는 현재진행형'··· 금용 업계가 AI를 활용하는 방법 - ITWorld Korea,www.itworld.co.kr/news/120987
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTizjnrM-ewmjhfDCK8Q5b3NZEMheuqcrrTZ7ErU0UOWVV9yLm67NiUmjXd,성공적인 AI 여정을 위한 로드맵 : 기업용 AI 구현 가이드 - ITWorld Korea,www.itworld.co.kr/techlibrary/111542
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyKS5cZPZp30C4vSuZu2VySO7SSrvyo3aP1x2fXNnOOEcPT94QG0lgTo,"“비즈니스 결과물로 직결되는” AI, 머신러닝, 딥 러닝 이해와 활용 ...",www.itworld.co.kr/techlibrary/119153
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7b2pgSm6J9WXI4Qj6bvi4bRk7mUo3s3OG6-zFPpbcirB3vcPcXrRl5QnD,"토픽 브리핑 | “AI, AI, AI!” 한 눈에 보는 2018년 IT 전망 - ITWorld Korea",www.itworld.co.kr/news/107762
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"한국마이크로소프트, '한국형 AI 활성화 위한 포괄적 플랜' 발표 ...",www.itworld.co.kr/news/119906
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmN6xA8Z0gTbOy_PL5EXJen5F9F2T1KOcHoUUB7mwSMDMrUwFrkKPmgpE,“머신 vs. 머신” AI가 주도하는 사이버 전쟁의 시대가 열린다 - ITWorld ...,www.itworld.co.kr/news/102280
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVEmlhZZ1w3qGwcOMrA8Ud2TTl8R00GuT4h9NpAv3kr5JP3GXxt9nQYp0,"""가능성과 역량 사이"" 인텔 아이스 레이크의 AI 시연 현장 - ITWorld Korea",www.itworld.co.kr/news/123462
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnpuZnL6apWVqVv-MvLdUlLVVF6kpSjpLHoJ3binPI0qCQw7W42kfN_Mu0,IDG 블로그 | AI가 발전할수록 모바일 앱은 보이지 않는다 - ITWorld ...,www.itworld.co.kr/news/105399
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF1-qs5UFgtczzzjDH9ceTSF0attfBvLbUGE_UiAZcwarMQXyTpTIurOuh,고객 경험을 위한 블렌디드 AI: 봇과 자동화 기술에 휴먼 터치의 힘을 ...,www.itworld.co.kr/techlibrary/108267
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNEStJpXlQQbJoI-s1Rjt6YkmhfE919DwnzSEUaFH7SjSwMTyIGErfg629,엔터프라이즈 AI를 위한 인프라 재고 : IDC 백서 - ITWorld Korea,www.itworld.co.kr/techlibrary/120302
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4izJWntKHA3OLvVMeZd8cRtxSccR5H91E65Jb5PExY3y-rniTaEmkxeI,최고 AI 책임자를 채용해야 할까? - ITWorld Korea,www.itworld.co.kr/news/104642
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"제네시스, '제네시스 AI'의 새로운 오케스트레이션 기능 발표 - ITWorld ...",www.itworld.co.kr/news/124694
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"삼성전자, '삼성 AI 포럼 2019' 개최 - ITWorld Korea",www.itworld.co.kr/news/135490
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"LG유플러스, 'U+ AI리모컨' 출시...“쓰던 가전 그대로 음성으로 제어 ...",www.itworld.co.kr/news/110646
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-_fhkMuqgwnPhs6o1D-cgN-4aOh4DBqq9r205qpU1FoPgJqh4PhT4gcKG,“클라우드와 AI의 천생연분 시너지” 마이크로소프트 애저 AI의 이해와 ...,www.itworld.co.kr/techlibrary/110481
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"IBM 연구소, 2020년 AI 5대 전망 발표 - ITWorld Korea",www.itworld.co.kr/news/140508
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"LG유플러스, 시각장애인 전용 AI 서비스 개편 - ITWorld Korea",www.itworld.co.kr/news/138426
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"CA 테크놀로지스, 고급 분석 및 AI 통합한 신제품 발표 - ITWorld Korea",www.itworld.co.kr/news/109725
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnpuZnL6apWVqVv-MvLdUlLVVF6kpSjpLHoJ3binPI0qCQw7W42kfN_Mu0,IDG 블로그 | AI가 발전할수록 모바일 앱은 보이지 않는다 - ITWorld ...,www.itworld.co.kr/news/105399
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnmQ5nJ0SWjJDYPFpSvjLVXLH2KqvcpCLSP8uis0mgBODd-zwCuH_rcoLn,ERP는 결국 AI와 만난다 - TechFocus - ITWorld Korea,www.itworld.co.kr/techlibrary/110125
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"솔트룩스, NH농협은행 'AI콜봇' 서비스 구축 완료 - ITWorld Korea",www.itworld.co.kr/news/112689
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"유아이패스, AI 기능 강화된 차세대 RPA 플랫폼 공개 - ITWorld Korea",www.itworld.co.kr/news/133799
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8M0h3o-ej1qxpndm6GwA_SvoTQbjL3pMnt_kA05AwChDzBSnAVLPlEZh7,"인공 지능(AI)을 탑재한 분석의 위력 : AI 기반의 분석, 지금 준비해야 ...",www.itworld.co.kr/techlibrary/116370
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQc1u8N9y8UwtNLp8ebyg3a-z_7j53YkJPeSJyprxb7dj0nxYS1EMndDrcd,글로벌 칼럼 | 라이프로깅은 어떻게 쉬워지고 자동화되는가… “AI가 ...,www.itworld.co.kr/news/102220
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcReVN5m8kLj-F6BV-Uv9E_xHBlu37S1c12Uf4k6ouTdBN3cYUqAmEADT67F,"2018년 데이터 및 AI 트렌드 : 딥러닝, 데이터 거버넌스, 챗봇을 통해 ...",www.itworld.co.kr/news/107681
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-CO0-YJFRyd47HlmkABWgZTJrQEQuIOdyWMi3w4cXEyn_mP43nqiN84k,"2020년, 업무 환경의 음성 기반 AI 기술 보편화 원년 될까? - ITWorld ...",www.itworld.co.kr/insight/140786
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"글로벌 칼럼 | 클라우드 기반 AI의 진정한 가치, 생각하는 것과 다르다 ...",www.itworld.co.kr/news/140114
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOIT2uMNSF43_Ss_KmD5wY4Qp-6JGVEZ05_p1SxFEPdjHDARe_wev5Cbw,"""성공적인 AI 도입을 위해 기업이 고려해야 할 것""…한국IDG, AI World ...",www.itworld.co.kr/news/119474
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UUMkdc61LNV73uKScqAvZW9xFfU9j4tOGUtMmDNByIdKc1blD9_BEXFy,ITWorld 용어풀이|설명가능한 AI - ITWorld Korea,www.itworld.co.kr/news/116193
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"SKT, '누구 컨퍼런스 2019' 개최 통해 AI 대중화 나선다 - ITWorld Korea",www.itworld.co.kr/news/133730
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSdSyv7nYVntYc4Wwb7_58HaIjcjRtIQF4c1F9eUamR63wW2e34xQdi7jKE,"포드, 무인 자동차용 AI 개발에 10억 달러 투자 - ITWorld Korea",www.itworld.co.kr/news/103399
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQr7Z0aYSFQ2_KFWlkhl0VkqKGvk5CV4xWo0PLmcgbxmFp1USpLWrP4kOv,“데이터센터는 여전히 인력난” AI 효과는 점진적일 것 : 업타임 조사 ...,www.itworld.co.kr/news/124454
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTIpY-jC6P41zFobiMU0S73pXZ0nUFVsqKZop7PontizHmzhCI0jNPxUKHM,"글로벌 칼럼 | AI 비서 경쟁에서 뒤처진 시리…애플, AR에서도 무너질까",www.itworld.co.kr/news/109296
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"셀바스 AI, 김해복음병원 종합검진센터에 질병 예측 서비스 제공 ...",www.itworld.co.kr/news/132366
-https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8F9uXU_6xQ14qKp8zAhFYoCR0csaSSbBp0wNOP6uJSxzRW8tn_TldzFfM,HPE-NVIDIA : AI 번들 오퍼링 북 - ITWorld Korea,www.itworld.co.kr/techlibrary/130614
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"티맥스, '티맥스데이 2019'서 AI 전략 공개 - ITWorld Korea",www.itworld.co.kr/news/134150
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ams12zFJIYyCELSGgGhpMgMIIEXV2Pjz8aZYorExIcPg1toWB2wzETo,"“게임 방송에도 AI 코어” 엔비디아, RTX 브로드캐스트 엔진 발표 ...",www.itworld.co.kr/news/132295
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOfnglnXeUlY1umotMYJl770sNzZSEs5tB0_CLMd4HgeZKigeKAtYJZmS,"인텔, AI 중심의 제품 최적화 계속…2019년 2세대 AI 프로세서 출시 ...",www.itworld.co.kr/news/110419
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"“전세계 AI 도입 기업, 4년새 270% 증가”...가트너 설문조사 결과 발표 ...",www.itworld.co.kr/news/115299
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScOfnglnXeUlY1umotMYJl770sNzZSEs5tB0_CLMd4HgeZKigeKAtYJZmS,"인텔, AI 중심의 제품 최적화 계속…2019년 2세대 AI 프로세서 출시 ...",www.itworld.co.kr/news/110419
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"“전세계 AI 도입 기업, 4년새 270% 증가”...가트너 설문조사 결과 발표 ...",www.itworld.co.kr/news/115299
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"IBM “왓슨 헬스, 암 진료 분야에서 AI 가치 입증” - ITWorld Korea",www.itworld.co.kr/news/124475
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"엔비디아, AI 컴퓨터 '젯슨 자비에' 공급업체로 애로우 일렉트로닉스 ...",www.itworld.co.kr/news/110730
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrIZUia7wPLouQmYJOIOSQSN3odu6QE63AEl-gEbxQRDWqRRta5_HLKOY,'고객경험을 혁신한다' 일문일답으로 알아본 AI 상담원 - ITWorld Korea,www.itworld.co.kr/news/120966
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmhQ4H3jE8BKkxWHy8J8WfrH7yPHVTCbSB9-LsoXvq42uRDgoCev6L9Wj7,"자일링스, 중국 하드웨어 업체와 손잡고 AI용 데이터센터 시장 공략 ...",www.itworld.co.kr/news/111225
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2MX56biWjrlfetFv6kvgKygZblt7QH-DjWSYgLcmRGdIOnV_er0avD1mD,"AMD, 차세대 쓰레드리퍼 정보 연내 공개 예정 ""AI·머신러닝 칩에도 힘 ...",www.itworld.co.kr/news/128834
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"티맥스, 제2연구소 개소 통해 “AI, 블록체인 등 차세대 신기술 연구 박차 ...",www.itworld.co.kr/news/114969
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"MS, AI 기능 강화한 마이크로소프트 365 업데이트 발표 - ITWorld Korea",www.itworld.co.kr/news/110905
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"나무기술, AI 전문기업 메이슨인텔리전스에 투자...“AI 시장 공략 ...",www.itworld.co.kr/news/114384
-https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZQmXfRMD-iQv2YFGQ0pFcnuYzb-4TE8pq2eHChVHbnTdQ5H2sriQ-_uo6,"데이터, 분석 및 AI: 신뢰를 바탕으로 가치를 창출하는 방법 - MIT SMR ...",www.itworld.co.kr/techlibrary/121524
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"SK텔레콤-마이크로소프트, 'SKT AI & 데이터 플랫폼' 개발 협력 ...",www.itworld.co.kr/news/126308
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1_0ANxXczI4UGKGGqtXSIuolKl-aRfbf6MU4FEx_qq7LFYq3rldndN_Y,"신생 반도체 업체 세레브라스, 거대한 AI 칩 탑재한 머신러닝 서버 출시 ...",www.itworld.co.kr/news/129295
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbFGvVYkE2h3q6au4wTSySizWuPqoewbYyXVZ6eF13AG5V_RLtfseYc44,“기업의 미래를 바꾼다” 사례로 알아보는 클라우드 AI 실전 도입 전략 ...,www.itworld.co.kr/techlibrary/111412
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UUMkdc61LNV73uKScqAvZW9xFfU9j4tOGUtMmDNByIdKc1blD9_BEXFy,ITWorld 용어풀이|설명가능한 AI - ITWorld Korea,www.itworld.co.kr/news/116193
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRx-IrwcBDamZ7ssMPW17I7MONs25Cr_TZLIthcIQoV6zdkKzrvhy9C7ig,IDG 블로그 | AI 시스템의 편향성을 악화시키는 클라우드 가용성 ...,www.itworld.co.kr/news/120428
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"“AI로 더욱 똑똑해진 오피스”...마이크로소프트, 파워포인트 새로운 AI ...",www.itworld.co.kr/news/124683
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"시스코, “AI·머신러닝으로 단순·안전·스마트한 네트워크 구현” - ITWorld ...",www.itworld.co.kr/news/124137
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRuQp6YLnw5FInB3qqG4CLjq5gexQNYspmtV0s4lARPhwp3MoL3e48q7yID,"체험 리뷰 | AI와 만난 화웨이 메이트 10, “신경망 프로세서가 만드는 5 ...",www.itworld.co.kr/news/106763
-https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzJPNl7WVRbEf2RVHfn4IkRGpgKUTQOM_tFG1ZEjfeDMLUg8XvyVYWylAm,"셀바스 AI-텔레투게더, 음성인식 기반의 AI 회의록 서비스 관련 MOU ...",www.itworld.co.kr/news/125483
+title,link,preview
+AI 기반의 위협 탐지가 아직 시장을 장악하지 못한 이유 - ITWorld Korea,www.itworld.co.kr/news/115320,"2019년 1월 21일 ... 소프트웨어 업체 다크트레이스(Darktrace) CEO 니콜 이건에 따르면, 사이버보안 전문가 10명 가운데 2명만이 일반적으로 AI를 위협 탐지의 핵심 ..."
+네트워크 운영 : AI와 ML의 새로운 역할 - ITWorld Korea,www.itworld.co.kr/news/111554,2018년 11월 20일 ... 학계와 산업계에서 수십년에 걸쳐 발전해왔고 성공적인 응용 사례도 많지만 인공 지능(AI)과 머신러닝(ML)에 대한 IT의 시각은 여전히 상당부분 ...
+"IT 미래를 이끄는 삼두마차, ""AI, IoT, 하이브리드 클라우드"" - ITWorld ...",www.itworld.co.kr/news/106773,"2017년 10월 17일 ... 두 가지 가장 두드러진 추세는 사물인터넷(IoT)과 인공 지능(AI)으로, 이 둘은 실과 바늘처럼 늘 붙어 다닌다. 간단히 설명하면 IoT는 다수의 기기가 ..."
+AI 여정을 가속화하는 핵심 로드맵 - IDG Summary - ITWorld Korea,www.itworld.co.kr/techlibrary/118550,2019년 3월 12일 ... 인공지능(AI)은 이미 엔터프라이즈 환경에 깊숙이 들어와 있다. 기업에 AI가 필요 하고 도입해야 할 때라는 것에 이의를 제기하는 사람도 없다. 그러나 ...
+"""사이버보안의 가장 큰 위협이 될 수 있는"" AI 퍼징이란 무엇인가 ...",www.itworld.co.kr/howto/119834,2019년 3월 28일 ... Getty Images BankAI 퍼징의 정의 AI 퍼징(AI fuzzing)은 애플리케이션이나 시스템 의 취약점을 찾는 데 머신러닝과 유사한 기술을 사용한다.
+"AI를 활용한 사이버 위협, 보안의 다음 과제 - ITWorld Korea",www.itworld.co.kr/news/111362,"2018년 11월 5일 ... 정보보안과 IT 팀의 인공지능(Artificial Intelligence, AI)과 보안에 관한 회의는 뿌리깊다. 따지고 보면 AI의 등장에 대한 이야기는 1980년대부터 ..."
+성공적인 AI 프로젝트를 위한 8가지 핵심 직무 - ITWorld Korea,www.itworld.co.kr/news/118955,"2019년 3월 18일 ... 인공 지능(Artificial intelligence, AI)은 비즈니스 가치를 높일 수 있는 풍부한 기회를 제공한다. AI를 제대로 적용할 경우 매출이 증가하고 운영이 ..."
+'구글의 진짜 혁신' AI 카메라 클립스에서 보인다 - ITWorld Korea,www.itworld.co.kr/news/106680,"2017년 10월 11일 ... 구글 클립스는 인공 지능(AI)을 사용해 사진을 촬영할 시기를 선택한다. 렌즈를 돌려 시작 시점에 놓으면, 이후 카메라가 자동으로 작동한다."
+글로벌 칼럼 | AI 전쟁이라고 세상이 끝난 것은 아니다 - ITWorld Korea,www.itworld.co.kr/news/110551,"2018년 8월 27일 ... 인공지능(Artificial Intelligence, AI)은 일과 삶을 편하게 해줄 만능열쇠일까, 아니면 악몽에서 나올 법한 자아를 가진 기계를 향한 첫 걸음일까.Credit: ..."
+2020년대 인공지능 기술 동향 예측 - ITWorld Korea,www.itworld.co.kr/news/140214,"2019년 12월 26일 ... 인공지능(AI)은 사실상 기술 산업의 모든 분야에서 없어서는 안될 요소가 됐다. 애플리케이션, 개발 툴, 컴퓨팅 플랫폼, 데이터베이스 관리 시스템, ..."
+"AI로 안전 강조한 웨이모 “자율주행 자동차, 두려움 해결이 과제 ...",www.itworld.co.kr/news/109276,2018년 5월 11일 ... 웨이모를 압박할 의도는 없다.웨이모는 화요일 오전 구글 I/O에서 AI기술을 활용한 자율주행 자동차가 도로 위에서 단독으로 운전할 준비가 되었다는.
+"“AI 영향, 3년 후 230만 일자리 창출과 180만 일자리 소멸”…가트너 ...",www.itworld.co.kr/news/106708,2017년 10월 12일 ... 가트너는 '가트너 심포지엄/IT엑스포 2017'에서 2018년 이후 주목해야 할 10대 주요 전망을 발표했다.가트너 2018년 주요 전망은 기업들이 '기술의 ...
+IDG 블로그 | “AR과 AI가 만나면…” MS가 홀로렌즈 2에 AI 코프로세서 ...,www.itworld.co.kr/news/105759,"2017년 7월 26일 ... 흥미로운 점은 오늘날의 VR 및 증강현실(Augmented Reality, AR)은 생각만큼 인공 지능 (Artificial Intelligence,AI)을 활용하지 않는다는 것이다."
+AI 지원 보안 솔루션을 구매하기 전 물어야 할 11가지 질문 - ITWorld ...,www.itworld.co.kr/news/120329,2019년 4월 4일 ... 대다수 CISO는 앞으로 3~5년 동안 인공지능(AI)과 머신러닝(ML)이 정보보안 지형 을 격변시킬 것이라고 믿고 있다. 그렇다고 해서 이에 대한 이야기 ...
+“AI를 알고 싶다면” 반드시 이해해야 하는 4가지 핵심 개념 - ITWorld ...,www.itworld.co.kr/news/105221,2017년 6월 15일 ... 인공지능이 전 산업 영역에서 혁신적인 사용례를 만들어 내면서 태풍을 불러오고 있다. 물론 영화에서 보는 것처럼 의사를 AI 로봇이 대체하려면 ...
+"RPA, AI, 데이터옵스 등 2020년 주시해야 할 기술 8가지 - ITWorld Korea",www.itworld.co.kr/news/129735,"2019년 8월 29일 ... 히타치 반타라(Hitachi Vantara)의 르네 라흐티에 따르면, AI와 ML을 기반으로 하는 애자일 방식으로 데이터를 관리하는 기업들은 2020년에 경쟁력 ..."
+AI의 진화는 어디까지...장편 영화 대본도 썼다 - ITWorld Korea,www.itworld.co.kr/news/100527,2016년 7월 28일 ... 예술의 영역에 이제 발을 들여놓기 시작한 인공지능(AI)이 큰 발걸음을 내디뎠다. 장편 공포 영화의 시나리오를 공동으로 집필한 것이다. 이렇게 나온 ...
+“아직 늦지 않았다” 성공적인 AI 도입의 전제 조건 5가지 - ITWorld Korea,www.itworld.co.kr/news/108855,"2018년 4월 9일 ... 비즈니스는 모두 이렇게 AI와 머신러닝이 해결할 수 있는 문제로 가득 차 있다. 워드 프로세서가 타자기를 대체했듯, AI는 곧 엑셀을 시작으로 사무직 ..."
+"화웨이, 신형 AI 칩으로 엔비디아와 인텔 노린다 - ITWorld Korea",www.itworld.co.kr/news/111099화웨이의,2018년 10월 16일 ... 화웨이의 AI 전략은 칩만이 아니다. 칩부터 클라우드 서비스와 제품까지 완전한 포트폴리오를 갖추는 것이다.중국의 대형 IT 업체 화웨이가 상하이 ...
+"AMD, 머신러닝용 라데온 인스팅트 GPU 발표…AI 시장 추격 나선다 ...",www.itworld.co.kr/news/102559,2016년 12월 13일 ... AI 시장 추격 나선다. Gordon Mah Ung | PCWorld. AMD가 라데온 인스팅트( Radeon Instnct) 제품군을 발표하며 엔비디아와 인텔의 뒤를 쫓아 머신 ...
