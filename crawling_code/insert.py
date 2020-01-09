@@ -3,7 +3,7 @@ import pandas as pd
 import requests
 
 # 데이터베이스 서버 연결
-client = pymongo.MongoClient("mongodb://15.165.1.169/")
+client = pymongo.MongoClient("mongodb://localhost:27017/")
 
 # #컬렉션 삭제
 client.crawling.drop_collection("news_db")
@@ -15,11 +15,11 @@ news_db = client.crawling.news_db
 bigdata_db = client.crawling.bigdata_db
 
 
-final_df=pd.read_csv("/home/ubuntu/python3/notebook/Tech/csv_files/zd_net.csv",encoding="utf-8")
-final_df2=pd.read_csv("/home/ubuntu/python3/notebook/Tech/csv_files/Tech_crunch.csv",encoding="utf-8")
-final_df3=pd.read_csv("/home/ubuntu/python3/notebook/Tech/csv_files/zdnet_bigdata.csv",encoding="utf-8")
-final_df4=pd.read_csv("/home/ubuntu/python3/notebook/Tech/csv_files/itworld_bigdata.csv",encoding="utf-8")
-final_df5=pd.read_csv("/home/ubuntu/python3/notebook/Tech/csv_files/conference.csv",encoding="utf-8")
+final_df=pd.read_csv("csv_files/zd_net.csv",encoding="utf-8")
+final_df2=pd.read_csv("csv_files/Tech_crunch.csv",encoding="utf-8")
+final_df3=pd.read_csv("csv_files/zdnet_bigdata.csv",encoding="utf-8")
+final_df4=pd.read_csv("csv_files/itworld_bigdata.csv",encoding="utf-8")
+final_df5=pd.read_csv("csv_files/conference.csv",encoding="utf-8")
 
 
 items1= final_df.to_dict("records")

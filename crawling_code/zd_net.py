@@ -8,7 +8,7 @@ def get_articles(page):
     options = webdriver.ChromeOptions()
     options.add_argument("headless")
     options.add_argument("window-size=1920x1080")
-    driver = webdriver.Chrome("/home/ubuntu/python3/notebook/Tech/chromedriver", options=options)
+    driver = webdriver.Chrome(options=options)
     url = 'http://www.zdnet.co.kr/newskey/?lstcode=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5&page={}'.format(page)
     driver.get(url)
     #여러데이터 모으기
@@ -31,7 +31,7 @@ def get_articles(page):
     #상세내용 뽑아내기
     preview_list = []
     for article in articles:
-        preview = article.find_element_by_css_selector("div.assetText > a > p").text
+        preview = article.find_element_by_css_selector("div.assetText > a > p").text[:200]
         preview_list.append(preview)
     preview=pd.DataFrame(preview_list,columns=['preview'])
     
@@ -50,5 +50,5 @@ def zd_net(startpage, endpage):
     df.reset_index(drop=True, inplace=True)
     return df
 final_df= zd_net(1,2)      
-final_df.to_csv("/home/ubuntu/python3/notebook/Tech/csv_files/zd_net.csv", index=False, encoding='utf-8' )
+final_df.to_csv("csv_files/zd_net.csv", index=False, encoding='utf-8' )
 

@@ -67,4 +67,4 @@ def Tech_crunch(startpage, endpage):
     return df
 
 final_df2= Tech_crunch(1,2)
-final_df2.to_csv("/home/ubuntu/python3/notebook/Tech/csv_files/Tech_crunch.csv", index=False, encoding='utf-8' )
+final_df2.to_csv("csv_files/Tech_crunch.csv", index=False, encoding='utf-8' )

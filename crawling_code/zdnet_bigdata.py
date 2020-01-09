@@ -22,7 +22,7 @@ def get_articles(page):
     options = webdriver.ChromeOptions()
     options.add_argument("headless")
     options.add_argument("window-size=1920x1080")
-    driver = webdriver.Chrome("/home/ubuntu/python3/notebook/Tech/chromedriver", options=options)
+    driver = webdriver.Chrome( options=options)
     url = 'https://search.zdnet.co.kr/?kwd=%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0&page={}'.format(page)
     driver.get(url)
     #여러데이터 모으기
@@ -64,4 +64,4 @@ def zd_net(startpage, endpage):
     df.reset_index(drop=True, inplace=True)
     return df
 final_df= zd_net(1,2)      
-final_df.to_csv("/home/ubuntu/python3/notebook/Tech/csv_files/zdnet_bigdata.csv", index=False, encoding='utf-8' )
+final_df.to_csv("csv_files/zdnet_bigdata.csv", index=False, encoding='utf-8' )
